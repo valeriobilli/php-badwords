@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+#badWord {
+    margin-bottom: 1rem;
+}
+
+#paragraph {
+    margin-bottom: 1rem;
+}
+
+label {
+    display: block;
+}
+
+#censored {
+    color: crimson;
+}
